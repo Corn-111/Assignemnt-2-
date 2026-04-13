@@ -233,5 +233,5 @@ if __name__ == "__main__":
     """)
 
     print("=" * 80)
-    print("✓ All experiments completed successfully!")
+    print("All experiments completed successfully!")
     print("=" * 80)
